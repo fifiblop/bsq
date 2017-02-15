@@ -1,2 +1,3 @@
-# bsq <img src="http://www.cfa-stephenson.fr/sites/default/files/images/%C3%A9cole%2042%20logo.png" width="50">
+# Projet Piscine C - BSQ
 Il s’agit de trouver le plus grand carré vide possible sur une carte remplie d'obstacle.
+Un plateau est passé en argument du programme.
